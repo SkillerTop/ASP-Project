@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UniProject",
+    "\\UniProject\\Controllers",
+    "\\UniProject\\Models",
+    "\\UniProject\\Views",
+    "\\UniProject\\Views\\Home",
+    "\\UniProject\\Views\\Shared",
+    "\\UniProject\\wwwroot",
+    "\\UniProject\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\UniProject\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": true
+}
