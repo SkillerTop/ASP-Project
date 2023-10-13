@@ -29,7 +29,3 @@ D:\University\ASP.NET\UniProject\UniProject\obj\Debug\net6.0\refint\UniProject.d
 D:\University\ASP.NET\UniProject\UniProject\obj\Debug\net6.0\UniProject.pdb
 D:\University\ASP.NET\UniProject\UniProject\obj\Debug\net6.0\UniProject.genruntimeconfig.cache
 D:\University\ASP.NET\UniProject\UniProject\obj\Debug\net6.0\ref\UniProject.dll
-D:\University\ASP.NET\UniProject\UniProject\bin\Debug\net6.0\Configure\CompanyConfig.json
-D:\University\ASP.NET\UniProject\UniProject\bin\Debug\net6.0\INIFileParser.dll
-D:\University\ASP.NET\UniProject\UniProject\bin\Debug\net6.0\Newtonsoft.Json.dll
-D:\University\ASP.NET\UniProject\UniProject\obj\Debug\net6.0\UniProject.csproj.CopyComplete
