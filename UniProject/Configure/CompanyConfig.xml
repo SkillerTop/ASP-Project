@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<companies>
+  <company name="Microsoft" employees="100000"/>
+  <company name="Apple" employees="150000"/>
+  <company name="Google" employees="200000"/>
+</companies>
